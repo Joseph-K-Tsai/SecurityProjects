@@ -1,5 +1,5 @@
 # Security Projects
-Personal security projects and studies
+Joseph Tsai's personal security projects and studies
 
 
 Any viewer or collaborator of this repository must agree to the following items prior to viewing any information:
