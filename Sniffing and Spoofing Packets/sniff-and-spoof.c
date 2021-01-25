@@ -353,6 +353,9 @@ void got_packet(u_char *args, const struct pcap_pkthdr *header,
             exit(-1);
         }
 		printf("SPOOFED PACKET HAS BEEN SENT");
+
+		// Close the socket
+		close(sd);
 }
 
 
